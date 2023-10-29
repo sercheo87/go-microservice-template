@@ -3,9 +3,8 @@ module go-microservice-template
 go 1.21
 
 require (
-	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.4.0
-	github.com/rabbitmq/amqp091-go v1.9.0
+	github.com/gorilla/mux v1.8.0
 	github.com/spf13/viper v1.17.0
 	go.uber.org/zap v1.26.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
@@ -13,7 +12,6 @@ require (
 
 require (
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
-	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect

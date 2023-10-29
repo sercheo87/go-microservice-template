@@ -24,4 +24,5 @@ For generate a binary file, run the following command:
 ```bash
 $ make all
 ```
-Created by [🚀 @sercheo87](https://github.com/sercheo87)
+
+Created by 🚀[@sercheo87](https://github.com/sercheo87)
