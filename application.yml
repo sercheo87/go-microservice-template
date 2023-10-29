@@ -1,0 +1,8 @@
+microserviceName: go-microservice-template
+microservicePort: "8000"
+microserviceVersion: 1.0.0
+environment: dev
+workspaceFolder: ./workspace
+
+log:
+  level: info
