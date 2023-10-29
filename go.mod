@@ -1,4 +1,4 @@
-module go-microservice-template
+module github.com/sercheo87/go-microservice-template
 
 go 1.21
 
